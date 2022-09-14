@@ -15,7 +15,7 @@ public class Diamond_Numeric{
      System.out.println("");   
    }   
    for (i=rows-1; i>=0; i--){  
-      for(j=0; j <= i-1;j++){  
+      for(j=0; j <= i-1;j++){
            System.out.print(num);  
       }  
       System.out.println("");  
