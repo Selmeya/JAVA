@@ -62,6 +62,10 @@ Revision Day 1:
 Number of Programs Completed:
   SortStringin_Alpha.java
   Count_Number.java
+  Spl_Pattern.java
+  PerfectNum_ExcepHand.java
+  CountNosOf_Digit.java
+  Longest_Substring.java
 
 Revision Day 2:
 Number of Programs Completed:
