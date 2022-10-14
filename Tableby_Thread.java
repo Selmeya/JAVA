@@ -1,6 +1,7 @@
 import java.util.Scanner;
 public class Tableby_Thread{
   public static void main(String[] args){
+   try{
     int s;
     int e;
     int i;
@@ -27,4 +28,8 @@ public class Tableby_Thread{
       }
     }
   }
+  catch( Exception e){
+    System.out.println("INVALID Input" );
+  }
+ }
 }
